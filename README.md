@@ -1,4 +1,4 @@
-# Seq2seq-with-Attention-model-for-Abstractive-Summarization
+# Seq2seq-Attention-model-for-Abstractive-Summarization
 
 This repository consists of the implementation of a sequence to sequence with attention model using PyTorch for an abstractive summarization system on CNN/Daily Mail Dataset, which consists of more than 300K news articles and each of them is paired with several highlights, known as multi-sentence summaries.
 Distribution of number of datasamples in the dataset are given below.
